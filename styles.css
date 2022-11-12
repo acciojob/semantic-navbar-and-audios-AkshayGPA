@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+*{
+    padding: 2px;
+    margin: 5px;
+
+}
+
+body{
+    font-style: normal;
+    font-family: Tahoma;
+}
